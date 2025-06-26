@@ -1,3 +1,3 @@
 - [Read Me](README)
 - [Example Second Page](second-page)
-- [Test Page](test-page.html)
+- [Test Page](test-page)
